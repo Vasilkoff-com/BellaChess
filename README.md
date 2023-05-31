@@ -20,6 +20,15 @@ This repository contains the game's smart contracts, developed using Hardhat. Th
 
 To run the complete project, clone each of the three repositories and follow the setup instructions in the README files of each repository.
 
+Absolutely, you can add a section titled "Terms of Use" to your README file. Here's a suggested addition:
+
+## Terms of Use
+
+Before interacting with the BellaChess game, we strongly recommend all users to read and understand our [Terms of Use](https://github.com/Vasilkoff-com/BellaChess/blob/main/TERMS.md). 
+
+These terms outline the rules and guidelines for using the BellaChess platform and participating in its associated activities. By using BellaChess, users agree to comply with these terms.
+
+
 ## Contribute
 
 We welcome contributions to the BellaChess project! Feel free to fork any of the repositories and submit your pull requests.
